@@ -1,0 +1,2064 @@
+@charset "UTF-8";
+@media (min-width: 1600px) {
+  .container {
+    max-width: 1520px;
+  }
+}
+@media (min-width: 1800px) {
+  .container {
+    max-width: 1620px;
+  }
+  .breedersBox {
+    height: 800px;
+    padding: 0 150px;
+  }
+}
+
+@media (max-width: 1440px) {
+  .alaq-product-posting-wrapper .posting-inner-wrapper .rec-posting .posting-wrapper {
+    padding: 30px;
+  }
+  .alaq-product-posting-wrapper .posting-inner-wrapper .rec-posting .posting-wrapper .post-content .offer {
+    font-size: 40px;
+  }
+  .alaq-product-posting-wrapper .posting-inner-wrapper .rec-posting .posting-wrapper .post-content .offer span {
+    font-size: 18px;
+  }
+  .alaq-product-posting-wrapper .posting-inner-wrapper .rec-posting .posting-wrapper .post-content h2 a {
+    font-size: 30px;
+  }
+  .alaq-product-posting-wrapper .posting-inner-wrapper .sqr-posting .sqr-content h2 a {
+    font-size: 30px;
+  }
+  .alaq-product-posting-wrapper .posting-inner-wrapper .sqr-posting .sqr-content h4 {
+    font-size: 30px;
+  }
+}
+@media (max-width: 1366px) {
+  .alaq-home-wrapper .sb-main-header1 .menu-items-wrapper .alaq-header .my-menu-header nav ul li a {
+    font-size: 14px;
+  }
+  .alaq-home-slider-wrapper .home-slider-wrapper .slide-wrapper .slide-caption h2 {
+    font-size: 40px;
+  }
+  .alaq-mobile-posting-wrapper .mobile-posting-wrapper .posting-box .mob-text {
+    top: 12px;
+  }
+  .alaq-mobile-posting-wrapper .mobile-posting-wrapper .posting-box .mob-text h2 a {
+    font-size: 20px;
+  }
+  .alaq-mobile-posting-wrapper .mobile-posting-wrapper .posting-box .mob-text h3 {
+    font-size: 20px;
+    padding-top: 6px;
+  }
+  .alaq-mobile-posting-wrapper .mobile-posting-wrapper .posting-box .mob-text .text-btn {
+    font-size: 14px;
+    margin-top: 7px;
+  }
+  .alaq-mobile-posting-wrapper .mobile-posting-wrapper .posting-box .mobile-text {
+    top: 12px;
+  }
+  .alaq-mobile-posting-wrapper .mobile-posting-wrapper .posting-box .mobile-text h2 a {
+    font-size: 20px;
+  }
+  .alaq-mobile-posting-wrapper .mobile-posting-wrapper .posting-box .mobile-text h3 {
+    font-size: 20px;
+    padding-top: 6px;
+    padding-bottom: 0px;
+  }
+  .alaq-mobile-posting-wrapper .mobile-posting-wrapper .posting-box .mobile-text .text-btn {
+    font-size: 14px;
+    margin-top: 7px;
+  }
+  .alaq-newly-launched-wrapper .newly-launched-wrapper .newly-launched-box .launched-text h2 {
+    font-size: 14px;
+    letter-spacing: 1.8px;
+  }
+  .alaq-newly-launched-wrapper .newly-launched-wrapper .newly-launched-box .launched-text h3 {
+    font-size: 24px;
+  }
+  .alaq-main-footer .alaq-footer-inner-main-wrapper .footer-links .link-main-wrapper h4 {
+    font-size: 20px;
+  }
+  .alaq-main-footer .alaq-footer-inner-main-wrapper .footer-links .link-main-wrapper .pages-link ul li a {
+    font-size: 14px;
+  }
+  .alaq-main-footer .alaq-footer-inner-main-wrapper .destination-wrapper .destination .desti-text h4 {
+    font-size: 16px;
+  }
+}
+@media (max-width: 1240px) {
+  .alaq-home-wrapper .sb-main-header1 .menu-items-wrapper .alaq-header .my-menu-header nav ul {
+    gap: 20px;
+  }
+  .product-wrapper .product-content h2 a {
+    width: auto;
+  }
+  .product-wrapper .product-content p {
+    width: auto;
+  }
+  .alaq-main-footer .alaq-footer-inner-main-wrapper {
+    justify-content: inherit;
+    flex-wrap: wrap;
+  }
+  .alaq-main-footer .alaq-footer-inner-main-wrapper .footer-logo {
+    width: 31%;
+  }
+  .alaq-main-footer .alaq-footer-inner-main-wrapper .footer-links {
+    width: 31%;
+  }
+}
+@media (max-width: 1199px) {
+  .alaq-product-posting-wrapper .posting-inner-wrapper {
+    flex-wrap: wrap;
+  }
+  .alaq-product-posting-wrapper .posting-inner-wrapper .rec-posting .posting-wrapper {
+    padding: 50px 30px 0px 30px;
+  }
+  .alaq-product-posting-wrapper .posting-inner-wrapper .rec-posting .posting-wrapper .post-img img {
+    width: 75%;
+  }
+  .alaq-home-wrapper .top-header {
+    display: none;
+  }
+  .alaq-home-wrapper .sb-main-header1 {
+    padding: 0;
+    background-color: transparent;
+  }
+  .alaq-home-wrapper .sb-main-header1 .menu-items-wrapper {
+    display: none;
+  }
+  .alaq-home-wrapper .sb-main-header1 .mobile-menu-wrapper {
+    display: block;
+  }
+  .alaq-home-slider-wrapper {
+    margin-top: 100px;
+  }
+  .alaq-home-slider-wrapper .home-slider-wrapper .slide-wrapper .slide-img {
+    width: 50%;
+  }
+  .alaq-home-slider-wrapper .home-slider-wrapper .slide-wrapper .slide-caption {
+    width: 50%;
+  }
+  .alaq-newly-launched-wrapper .newly-launched-wrapper .newly-launched-box .launched-text h2 {
+    padding-bottom: 4px;
+  }
+  .alaq-newly-launched-wrapper .newly-launched-wrapper .newly-launched-box .launched-text h3 {
+    font-size: 18px;
+  }
+  .alaq-newly-launched-wrapper .newly-launched-wrapper .newly-launched-box .launched-text h3 span {
+    font-size: 14px;
+    padding-right: 5px;
+  }
+  .alaq-newly-launched-wrapper .newly-launched-wrapper .newly-launched-box .launched-text h3 sup {
+    font-size: 14px;
+  }
+  .alaq-home-slider-wrapper .home-slider-wrapper .slide-wrapper {
+    justify-content: inherit;
+    gap: 24px;
+  }
+  .alaq-home-slider-wrapper .home-slider-wrapper .slide-wrapper .slide-caption {
+    max-width: inherit;
+    width: 50%;
+  }
+  .alaq-home-slider-wrapper .home-slider-wrapper .slide-wrapper .slide-caption .offer {
+    padding-top: 6px;
+  }
+  .alaq-home-slider-wrapper .home-slider-wrapper .slide-wrapper .slide-img {
+    width: 50%;
+  }
+}
+@media (max-width: 1024px) {
+  .alaq-mobile-posting-wrapper .mobile-posting-wrapper {
+    flex-direction: column;
+  }
+  .alaq-newly-launched-wrapper .newly-launched-wrapper {
+    flex-wrap: wrap;
+  }
+  .alaq-newly-launched-wrapper .newly-launched-wrapper .newly-launched-box {
+    width: 48%;
+  }
+  .alaq-main-footer .alaq-footer-inner-main-wrapper .footer-logo {
+    width: 44%;
+  }
+  .alaq-main-footer .alaq-footer-inner-main-wrapper .footer-links {
+    width: 44%;
+  }
+}
+@media (max-width: 991px) {
+  .alaq-home-slider-wrapper .home-slider-wrapper .slide-wrapper .slide-caption h2 {
+    font-size: 36px;
+  }
+  .alaq-home-slider-wrapper .home-slider-wrapper .slide-wrapper {
+    flex-direction: column;
+    gap: 24px;
+  }
+  .alaq-home-slider-wrapper .home-slider-wrapper .slide-wrapper .slide-caption {
+    width: 100%;
+  }
+  .alaq-home-slider-wrapper .home-slider-wrapper .slide-wrapper .slide-img {
+    width: 100%;
+  }
+}
+@media (max-width: 767px) {
+  .alaq-product-posting-wrapper .posting-inner-wrapper .rec-posting .posting-wrapper {
+    padding: 30px;
+  }
+  .alaq-home-slider-wrapper .home-slider-wrapper .slide-wrapper {
+    flex-direction: column;
+  }
+  .alaq-home-slider-wrapper .home-slider-wrapper .slide-wrapper .slide-img {
+    width: 100%;
+  }
+  .alaq-home-slider-wrapper .home-slider-wrapper .slide-wrapper .slide-caption {
+    width: 100%;
+  }
+  .alaq-main-footer .alaq-footer-inner-main-wrapper .footer-logo {
+    width: 100%;
+  }
+  .alaq-main-footer .alaq-footer-inner-main-wrapper .footer-links {
+    width: 100%;
+  }
+}
+@media (max-width: 640px) {
+  .alaq-product-posting-wrapper .posting-inner-wrapper .rec-posting .posting-wrapper {
+    flex-direction: column;
+  }
+  .alaq-product-posting-wrapper .posting-inner-wrapper .rec-posting .posting-wrapper .post-content {
+    width: 100%;
+  }
+  .alaq-product-posting-wrapper .posting-inner-wrapper .rec-posting .posting-wrapper.headphone-posting {
+    padding: 30px;
+    align-items: flex-start;
+  }
+}
+@media (max-width: 575px) {
+  .alaq-home-slider-wrapper .home-slider-wrapper .slide-wrapper .slide-caption h2 {
+    font-size: 30px;
+  }
+}
+@media (max-width: 480px) {
+  .alaq-newly-launched-wrapper .newly-launched-wrapper {
+    flex-wrap: wrap;
+  }
+  .alaq-newly-launched-wrapper .newly-launched-wrapper .newly-launched-box {
+    width: 100%;
+  }
+  .alaq-home-slider-wrapper .home-slider-wrapper .slide-wrapper .slide-caption h2 {
+    font-size: 24px;
+  }
+  .alaq-select-product-wrapper .alaq-filter-wrapper h2 {
+    font-size: 30px;
+  }
+  .alaq-product-posting-wrapper .posting-inner-wrapper .rec-posting .posting-wrapper .post-content .offer {
+    font-size: 30px;
+  }
+  .alaq-product-posting-wrapper .posting-inner-wrapper .rec-posting .posting-wrapper .post-content h2 a {
+    font-size: 24px;
+  }
+  .alaq-product-posting-wrapper .posting-inner-wrapper .rec-posting .posting-wrapper .post-content .text-btn {
+    font-size: 14px;
+  }
+  .alaq-product-posting-wrapper .posting-inner-wrapper .sqr-posting .sqr-content h2 a {
+    font-size: 22px;
+  }
+  .alaq-product-posting-wrapper .posting-inner-wrapper .sqr-posting .sqr-content h3 {
+    font-size: 22px;
+  }
+  .alaq-product-posting-wrapper .posting-inner-wrapper .sqr-posting .sqr-content h3 span {
+    font-size: 20px;
+  }
+  .alaq-product-posting-wrapper .posting-inner-wrapper .sqr-posting .sqr-content h3 a {
+    font-size: 22px;
+  }
+  .alaq-product-posting-wrapper .posting-inner-wrapper .sqr-posting .sqr-content h3 a span {
+    font-size: 20px;
+  }
+  .alaq-newly-launched-wrapper h2 {
+    font-size: 30px;
+  }
+  .alaq-home-slider-wrapper .home-slider-wrapper .owl-nav .owl-next {
+    position: relative;
+    right: 0px;
+    bottom: 0px;
+  }
+  .alaq-home-slider-wrapper .home-slider-wrapper .owl-nav {
+    margin-top: 20px;
+  }
+  .alaq-home-slider-wrapper .home-slider-wrapper .owl-nav .owl-prev {
+    position: relative;
+    left: 0px;
+    bottom: 0px;
+  }
+}
+@media (max-width: 425px) {
+  .alaq-home-wrapper .sb-main-header1 .mobile-menu-wrapper .mobile-logo a img {
+    width: 160px;
+  }
+  .alaq-mobile-posting-wrapper .mobile-posting-wrapper .posting-box {
+    height: 120px;
+  }
+  .alaq-mobile-posting-wrapper .mobile-posting-wrapper .posting-box img {
+    height: 100%;
+  }
+  .alaq-newly-launched-wrapper h2 {
+    font-size: 25px;
+  }
+  .alaq-select-product-wrapper {
+    width: 100%;
+    /*padding: 40px 0px;*/
+  }
+  .alaq-select-product-wrapper .tab-content {
+    margin-top: 20px;
+  }
+}
+@media (max-width: 360px) {
+  #sidebar #cssmenu {
+    width: 280px;
+  }
+  #sidebar {
+    width: 280px;
+  }
+  .alaq-mobile-posting-wrapper {
+    padding: 0;
+  }
+  .alaq-mobile-posting-wrapper .mobile-posting-wrapper .posting-box .mobile-text h3 {
+    font-size: 14px;
+    padding-top: 0;
+    padding-bottom: 0px;
+  }
+  .alaq-mobile-posting-wrapper .mobile-posting-wrapper .posting-box .mobile-text h3 span {
+    font-size: 14px;
+  }
+  .alaq-mobile-posting-wrapper .mobile-posting-wrapper .posting-box .mobile-text h2 {
+    line-height: 15px;
+  }
+  .alaq-mobile-posting-wrapper .mobile-posting-wrapper .posting-box .mobile-text h2 a {
+    font-size: 15px;
+    letter-spacing: 3px;
+  }
+  .alaq-mobile-posting-wrapper .mobile-posting-wrapper .posting-box .mob-text h2 {
+    line-height: 15px;
+  }
+  .alaq-mobile-posting-wrapper .mobile-posting-wrapper .posting-box .mob-text h2 a {
+    font-size: 15px;
+    letter-spacing: 3px;
+  }
+  .alaq-mobile-posting-wrapper .mobile-posting-wrapper .posting-box .mob-text h3 {
+    font-size: 14px;
+    padding-top: 5px;
+  }
+  .alaq-mobile-posting-wrapper .mobile-posting-wrapper .posting-box .mob-text h3 span {
+    font-size: 14px;
+  }
+  .alaq-mobile-posting-wrapper .mobile-posting-wrapper .posting-box .mob-text .text-btn {
+    margin-top: 0;
+  }
+  .alaq-home-wrapper .sb-main-header1 .mobile-menu-wrapper .mobile-logo a img {
+    width: 130px;
+    padding-top: 8px;
+  }
+  .alaq-home-slider-wrapper .home-slider-wrapper .slide-wrapper {
+    margin: 0px 10px;
+  }
+}
+@media (max-width: 1440px) {
+  .alaq-offer-post-main-wrapper .offer-post-inner-wrapper .offer-post-wrapper .posting-wrapper .post-content h4 {
+    max-width: 270px;
+  }
+}
+@media (max-width: 1366px) {
+  .alaq-grocery-launched-wrapper .newly-launched-wrapper .newly-launched-box .launched-text {
+    top: 15px;
+  }
+  .alaq-grocery-launched-wrapper .newly-launched-wrapper .newly-launched-box .launched-text h2 {
+    font-size: 14px;
+    padding-bottom: 5px;
+    letter-spacing: 1.8px;
+  }
+  .alaq-grocery-launched-wrapper .newly-launched-wrapper .newly-launched-box .launched-text h3 {
+    font-size: 16px;
+  }
+  .alaq-grocery-launched-wrapper .newly-launched-wrapper .newly-launched-box .launched-text h3 span {
+    font-size: 14px;
+  }
+  .alaq-grocery-launched-wrapper .newly-launched-wrapper .newly-launched-box .launched-text h3 sup {
+    font-size: 14px;
+  }
+  .alaq-grocery-slider-wrapper .grocery-slider-wrapper .slide-wrapper .slide-caption h2 {
+    font-size: 64px;
+  }
+  .alaq-grocery-slider-wrapper .grocery-slider-wrapper .slide-wrapper .slide-caption h3 {
+    font-size: 64px;
+  }
+  .alaq-offer-post-main-wrapper .offer-post-inner-wrapper {
+    flex-wrap: wrap;
+  }
+  .alaq-grocery-slider-wrapper .grocery-slider-wrapper .owl-dots {
+    bottom: -14%;
+    display: flex;
+  }
+}
+@media ((max-width: 1299px)) {
+  .alaq-grocery-posting-main-wrapper .grocery-inner-posting .grocery-post-box .post-box-wrapper .post-content2 h2 {
+    font-size: 30px;
+    max-width: 310px;
+  }
+  .alaq-grocery-posting-main-wrapper .grocery-inner-posting .grocery-post-box .post-box-wrapper .post-content2 {
+    padding: 40px 35px;
+  }
+  .alaq-grocery-posting-main-wrapper .grocery-inner-posting .grocery-post-box .post-box-wrapper .post-content h2 {
+    font-size: 30px;
+    max-width: 310px;
+  }
+  .alaq-grocery-posting-main-wrapper .grocery-inner-posting .grocery-post-box .post-box-wrapper .post-content3 h2 {
+    font-size: 30px;
+  }
+  .alaq-grocery-posting-main-wrapper .grocery-inner-posting .grocery-post-box .post-box-wrapper .post-content3 {
+    padding: 20px;
+  }
+  .alaq-offer-post-main-wrapper .offer-post-inner-wrapper .offer-post-wrapper .posting-wrapper .post-content h4 {
+    max-width: 350px;
+  }
+}
+@media (max-width: 1199px) {
+  .alaq-grocery-slider-wrapper {
+    margin-top: 90px;
+  }
+  .alaq-grocery-slider-wrapper .grocery-slider-wrapper .slide-wrapper .slide-caption h2 {
+    font-size: 50px;
+  }
+  .alaq-grocery-slider-wrapper .grocery-slider-wrapper .slide-wrapper .slide-caption h3 {
+    font-size: 50px;
+  }
+  .alaq-grocery-slider-wrapper .grocery-slider-wrapper .owl-dots {
+    width: 200px;
+    bottom: -12%;
+  }
+  .alaq-grocery-posting-main-wrapper .grocery-inner-posting {
+    width: 100%;
+    flex-wrap: wrap;
+  }
+  .alaq-grocery-posting-main-wrapper .grocery-inner-posting .grocery-post-box {
+    width: 100%;
+    overflow: hidden;
+  }
+  .alaq-grocery-posting-main-wrapper .grocery-inner-posting .grocery-post-box .post-box-wrapper .post-content h2 {
+    max-width: 100%;
+  }
+  .alaq-grocery-posting-main-wrapper .grocery-inner-posting .grocery-post-box .post-box-wrapper .post-content {
+    top: 35%;
+  }
+}
+@media (max-width: 991px) {
+  .alaq-grocery-launched-wrapper .newly-launched-wrapper {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .alaq-grocery-launched-wrapper .newly-launched-wrapper .newly-launched-box {
+    width: 48%;
+  }
+  .alaq-grocery-slider-wrapper .grocery-slider-wrapper .slide-wrapper {
+    gap: 35px;
+    padding: 30px 0px;
+    flex-direction: column;
+  }
+  .alaq-grocery-slider-wrapper .grocery-slider-wrapper .slide-wrapper .slide-caption {
+    max-width: 100%;
+  }
+  .alaq-grocery-slider-wrapper .grocery-slider-wrapper .owl-dots {
+    bottom: -8%;
+  }
+  .alaq-grocery-slider-wrapper .grocery-slider-wrapper .owl-dots {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    bottom: -5%;
+  }
+  .alaq-grocery-posting-main-wrapper .grocery-inner-posting .grocery-post-box .post-box-wrapper .post-content h2 {
+    max-width: 475px;
+  }
+  .alaq-grocery-posting-main-wrapper .grocery-inner-posting .grocery-post-box .post-box-wrapper .post-content {
+    top: 30%;
+    left: 45%;
+  }
+}
+@media (max-width: 767px) {
+  .alaq-grocery-slider-wrapper .grocery-slider-wrapper {
+    padding: 15px 20px 60px 20px;
+  }
+  .alaq-grocery-slider-wrapper .grocery-slider-wrapper .slide-wrapper {
+    padding: 14px 0px;
+  }
+  .alaq-grocery-slider-wrapper .grocery-slider-wrapper .slide-wrapper .slide-caption {
+    max-width: 100%;
+  }
+  .alaq-grocery-slider-wrapper .grocery-slider-wrapper .slide-wrapper .slide-caption h3 {
+    font-size: 40px;
+  }
+  .alaq-grocery-slider-wrapper .grocery-slider-wrapper .slide-wrapper .slide-caption h2 {
+    font-size: 40px;
+  }
+  .alaq-grocery-category-wrapper h2 {
+    font-size: 30px;
+  }
+  .alaq-select-grocery-product .alaq-filter-wrapper h2 {
+    font-size: 30px;
+  }
+  .alaq-delicious-fruits-wrapper .delicious-heading-wrapper h2 {
+    font-size: 30px;
+  }
+  .alaq-offer-post-main-wrapper .offer-post-inner-wrapper {
+    flex-wrap: wrap;
+  }
+  .alaq-grocery-posting-main-wrapper .grocery-inner-posting {
+    flex-direction: column;
+  }
+  .alaq-grocery-posting-main-wrapper .grocery-inner-posting .grocery-post-box {
+    width: 100%;
+  }
+  .alaq-grocery-slider-wrapper .grocery-slider-wrapper .owl-dots {
+    bottom: -12%;
+  }
+  .alaq-grocery-slider-wrapper .grocery-slider-wrapper .slide-wrapper .slide-caption h3 {
+    font-size: 28px;
+  }
+  .alaq-offer-post-main-wrapper .offer-post-inner-wrapper .offer-post-wrapper .posting-wrapper .post-content {
+    padding: 30px 28px;
+  }
+  .alaq-offer-post-main-wrapper .offer-post-inner-wrapper .offer-post-wrapper .posting-wrapper .post-img::before {
+    content: "";
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.74);
+    border-radius: 10px;
+  }
+  .alaq-offer-post-main-wrapper .offer-post-inner-wrapper .offer-post-wrapper .posting-wrapper .post-content h4 {
+    color: #fff;
+  }
+  .alaq-offer-post-main-wrapper .offer-post-inner-wrapper .offer-post-wrapper .posting-wrapper .post-content p a {
+    color: #fff;
+  }
+  .slider-wrapper .slide-wrapper {
+    padding-bottom: 0;
+  }
+  .alaq-grocery-posting-main-wrapper .grocery-inner-posting .grocery-post-box .post-box-wrapper .post-content2 {
+    row-gap: 0px;
+  }
+  .alaq-grocery-posting-main-wrapper .grocery-inner-posting .grocery-post-box .post-box-wrapper .post-content {
+    top: 22%;
+  }
+  .alaq-grocery-posting-main-wrapper .grocery-inner-posting .grocery-post-box .post-box-wrapper .post-content h2 {
+    max-width: 336px;
+  }
+}
+@media (max-width: 575px) {
+  .alaq-grocery-slider-wrapper .grocery-slider-wrapper .slide-wrapper .slide-caption {
+    max-width: 100%;
+  }
+  .alaq-grocery-slider-wrapper .grocery-slider-wrapper .slide-wrapper .slide-caption h3 {
+    font-size: 30px;
+  }
+  .alaq-grocery-slider-wrapper .grocery-slider-wrapper .slide-wrapper .slide-caption h2 {
+    font-size: 30px;
+  }
+  .alaq-grocery-slider-wrapper .grocery-slider-wrapper .owl-dots {
+    bottom: -14%;
+  }
+  .alaq-grocery-category-wrapper h2 {
+    font-size: 24px;
+  }
+  .alaq-select-grocery-product .alaq-filter-wrapper h2 {
+    font-size: 24px;
+  }
+  .alaq-delicious-fruits-wrapper .delicious-heading-wrapper h2 {
+    font-size: 24px;
+  }
+  .alaq-grocery-posting-main-wrapper .grocery-inner-posting .grocery-post-box .post-box-wrapper .post-img::before {
+    content: "";
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.74);
+  }
+  .alaq-grocery-posting-main-wrapper .grocery-inner-posting .grocery-post-box .post-box-wrapper .post-content {
+    left: 6%;
+    top: 15%;
+  }
+  .alaq-grocery-posting-main-wrapper .grocery-inner-posting .grocery-post-box .post-box-wrapper .post-content h2 a {
+    color: #fff;
+  }
+  .alaq-grocery-posting-main-wrapper .grocery-inner-posting .grocery-post-box .post-box-wrapper .post-content2 h2 a {
+    color: #fff;
+  }
+  .alaq-grocery-posting-main-wrapper .grocery-inner-posting .grocery-post-box .post-box-wrapper .post-content3 h2 a {
+    color: #fff;
+  }
+  .alaq-grocery-posting-main-wrapper .grocery-inner-posting .grocery-post-box .post-box-wrapper .post-content3 h6 {
+    color: #fff;
+  }
+  .alaq-grocery-posting-main-wrapper .grocery-inner-posting .grocery-post-box .post-box-wrapper .post-content3 p a {
+    color: #fff;
+  }
+  .alaq-offer-post-main-wrapper .offer-post-inner-wrapper .offer-post-wrapper .posting-wrapper .post-content h4 {
+    font-size: 22px;
+    max-width: 100%;
+    margin: 10px 0px;
+  }
+  .alaq-grocery-posting-main-wrapper .grocery-inner-posting .grocery-post-box .post-box-wrapper .post-content h2 {
+    font-size: 26px;
+    max-width: 100%;
+    margin: 6px 0px;
+  }
+  .alaq-grocery-posting-main-wrapper .grocery-inner-posting .grocery-post-box .post-box-wrapper .post-content2 h2 {
+    font-size: 26px;
+    max-width: 100%;
+    margin: 6px 0px;
+  }
+  .alaq-grocery-posting-main-wrapper .grocery-inner-posting .grocery-post-box .post-box-wrapper .post-content3 h2 {
+    font-size: 26px;
+    max-width: 100%;
+    margin: 6px 0px;
+  }
+  .alaq-grocery-posting-main-wrapper .grocery-inner-posting .grocery-post-box .post-box-wrapper .post-content h3 {
+    font-size: 25px;
+  }
+  .alaq-grocery-posting-main-wrapper .grocery-inner-posting .grocery-post-box .post-box-wrapper .post-content {
+    row-gap: 5px;
+  }
+  .alaq-grocery-posting-main-wrapper .grocery-inner-posting .grocery-post-box .post-box-wrapper .post-content h6 {
+    font-size: 16px;
+  }
+}
+@media (max-width: 480px) {
+  .alaq-grocery-launched-wrapper .newly-launched-wrapper .newly-launched-box {
+    width: 100%;
+  }
+  .alaq-offer-post-main-wrapper .offer-post-inner-wrapper .offer-post-wrapper .posting-wrapper .post-img img {
+    height: 230px;
+  }
+  .alaq-grocery-posting-main-wrapper .grocery-inner-posting .grocery-post-box .post-box-wrapper .post-content2 {
+    padding: 40px 20px;
+  }
+}
+@media (max-width: 425px) {
+  .alaq-delicious-fruits-wrapper .delicious-fruits-wrapper .delicious-fruits-box .delicious-fruits-text-box {
+    width: 180px;
+  }
+  .alaq-grocery-slider-wrapper .grocery-slider-wrapper .slide-wrapper {
+    gap: 18px;
+  }
+  .alaq-grocery-posting-main-wrapper .grocery-inner-posting .grocery-post-box .post-box-wrapper .post-content h2 {
+    font-size: 20px;
+    margin: 5px 0px;
+  }
+  .alaq-grocery-posting-main-wrapper .grocery-inner-posting .grocery-post-box .post-box-wrapper .post-content2 h2 {
+    font-size: 20px;
+    margin: 5px 0px;
+  }
+  .alaq-select-product-wrapper .tab-content {
+    margin-top: 20px;
+  }
+  .alaq-select-product-wrapper {
+    /*padding: 35px 0px;*/
+  }
+}
+@media (max-width: 375px) {
+  .alaq-delicious-fruits-wrapper .delicious-fruits-wrapper .delicious-fruits-box .delicious-fruits-img img {
+    width: 170px;
+  }
+  .alaq-grocery-slider-wrapper .grocery-slider-wrapper .slide-wrapper .slide-caption h3 {
+    font-size: 26px;
+  }
+  .alaq-grocery-posting-main-wrapper .grocery-inner-posting .grocery-post-box .post-box-wrapper .post-content2 {
+    padding: 20px 10px;
+  }
+  .alaq-grocery-posting-main-wrapper .grocery-inner-posting .grocery-post-box .post-box-wrapper .post-content {
+    left: 3%;
+    top: 10%;
+  }
+  .alaq-grocery-posting-main-wrapper .grocery-inner-posting .grocery-post-box .post-box-wrapper .post-img {
+    height: 190px;
+  }
+  .alaq-grocery-posting-main-wrapper .grocery-inner-posting .grocery-post-box .post-box-wrapper .post-img img {
+    height: 100%;
+  }
+}
+
+@media (max-width: 1366px) {
+  .alaq-cosmetic-slider-wrapper .grocery-slider-wrapper .slide-wrapper .slide-caption h2 {
+    font-size: 55px;
+  }
+}
+@media (max-width: 1240px) {
+  .alaq-cosmetic-slider-wrapper .grocery-slider-wrapper:before {
+    width: 650px;
+    height: 100%;
+  }
+  .alaq-cosmetic-slider-wrapper .grocery-slider-wrapper .slide-wrapper .slide-caption {
+    max-width: 575px;
+  }
+  .alaq-cosmetic-slider-wrapper .grocery-slider-wrapper .slide-wrapper .slide-caption h2 {
+    font-size: 40px;
+  }
+  .alaq-cosmetic-slider-wrapper .grocery-slider-wrapper .slide-wrapper .slide-caption .alaq-btn {
+    font-size: 14px;
+  }
+  .alaq-cosmetic-product-wrapper .cosmetic-product-inner-wrapper .cosmetic-product-wrapper {
+    width: 22%;
+  }
+  .alaq-cosmetic-slider-wrapper .grocery-slider-wrapper {
+    margin-top: 30px;
+  }
+}
+@media (max-width: 1199px) {
+  .alaq-cosmetic-slider-wrapper .grocery-slider-wrapper {
+    margin-top: 100px;
+  }
+  .alaq-cosmetic-banner-post-wrapper .cosmetic-banner-post .cosmetic-banner-content {
+    padding-left: 55px;
+  }
+  .alaq-cosmetic-banner-post-wrapper .cosmetic-banner-post .cosmetic-banner-content h3 {
+    font-size: 30px;
+  }
+}
+@media (max-width: 1024px) {
+  .alaq-cosmetic-slider-wrapper .grocery-slider-wrapper .slide-wrapper .slide-caption {
+    max-width: 520px;
+  }
+  .alaq-cosmetic-slider-wrapper .grocery-slider-wrapper .slide-wrapper .slide-caption h4 {
+    font-size: 18px;
+    padding-bottom: 8px;
+  }
+  .alaq-cosmetic-banner-post-wrapper .cosmetic-banner-post .cosmetic-banner-content h3 {
+    max-width: 400px;
+  }
+}
+@media (max-width: 991px) {
+  .alaq-cosmetic-product-wrapper .cosmetic-product-inner-wrapper .cosmetic-product-wrapper {
+    width: 30%;
+  }
+  .alaq-cosmetic-slider-wrapper .grocery-slider-wrapper .slide-wrapper .slide-caption {
+    max-width: 100%;
+  }
+  .alaq-cosmetic-product-wrapper h2 {
+    font-size: 30px;
+  }
+  .alaq-select-cosmetic-product .alaq-filter-wrapper h2 {
+    font-size: 30px;
+  }
+  .alaq-cosmetic-slider-wrapper .grocery-slider-wrapper .slide-wrapper {
+    gap: 40px;
+    flex-direction: column;
+  }
+  .alaq-cosmetic-banner-post-wrapper .cosmetic-banner-post .cosmetic-banner-content h3 {
+    font-size: 23px;
+  }
+  .alaq-cosmetic-banner-post-wrapper .cosmetic-banner-post .cosmetic-banner-content {
+    padding-left: 30px;
+    row-gap: 6px;
+  }
+  .alaq-cosmetic-banner-post-wrapper .cosmetic-banner-post .cosmetic-banner-content .offer-text a span {
+    font-size: 14px;
+    line-height: 16px;
+  }
+  .alaq-cosmetic-banner-post-wrapper .cosmetic-banner-post .cosmetic-banner-content .offer-text a {
+    font-size: 33px;
+  }
+}
+@media (max-width: 767px) {
+  .alaq-cosmetic-product-wrapper .cosmetic-product-inner-wrapper .cosmetic-product-wrapper {
+    width: 46%;
+  }
+  .alaq-cosmetic-offer-main-wrapper .cosmetic-offer-inner-wrapper {
+    flex-wrap: wrap;
+  }
+  .alaq-cosmetic-offer-main-wrapper .cosmetic-offer-inner-wrapper .cosmetic-offer {
+    width: 48%;
+  }
+  .alaq-cosmetic-slider-wrapper .grocery-slider-wrapper .slide-wrapper .slide-caption h4 {
+    font-size: 16px;
+  }
+  .alaq-cosmetic-slider-wrapper .grocery-slider-wrapper .slide-wrapper .slide-caption h2 {
+    font-size: 30px;
+  }
+  .alaq-cosmetic-slider-wrapper .grocery-slider-wrapper:before {
+    display: none;
+  }
+  .alaq-cosmetic-banner-post-wrapper .cosmetic-banner-post .img-box::before {
+    content: "";
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    width: 100%;
+    height: 100%;
+    display: block;
+    z-index: 2;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    background-color: rgba(0, 0, 0, 0.7);
+  }
+  .alaq-cosmetic-banner-post-wrapper .cosmetic-banner-post .img-box {
+    height: 280px;
+  }
+  .alaq-cosmetic-banner-post-wrapper .cosmetic-banner-post .img-box a img {
+    height: 100%;
+  }
+  .alaq-cosmetic-banner-post-wrapper .cosmetic-banner-post .cosmetic-banner-content {
+    z-index: 3;
+  }
+  .alaq-cosmetic-banner-post-wrapper .cosmetic-banner-post .cosmetic-banner-content h3 {
+    color: #fff;
+  }
+  .alaq-cosmetic-banner-post-wrapper .cosmetic-banner-post .cosmetic-banner-content .offer-text a span {
+    color: #fff;
+  }
+}
+@media (max-width: 575px) {
+  .alaq-cosmetic-offer-main-wrapper .cosmetic-offer-inner-wrapper .cosmetic-offer {
+    width: 100%;
+  }
+  .alaq-cosmetic-slider-wrapper .grocery-slider-wrapper {
+    padding: 45px;
+  }
+}
+@media (max-width: 480px) {
+  .alaq-cosmetic-product-wrapper .cosmetic-product-inner-wrapper .cosmetic-product-wrapper {
+    width: 100%;
+  }
+  .alaq-cosmetic-slider-wrapper .grocery-slider-wrapper {
+    padding: 40px;
+  }
+  .alaq-cosmetic-banner-post-wrapper .cosmetic-banner-post .cosmetic-banner-content {
+    padding-left: 18px;
+  }
+}
+@media (max-width: 360px) {
+  .alaq-cosmetic-slider-wrapper .grocery-slider-wrapper .slide-wrapper .slide-caption {
+    max-width: 100%;
+  }
+  .alaq-cosmetic-slider-wrapper .grocery-slider-wrapper .slide-wrapper .slide-caption h2 {
+    font-size: 25px;
+  }
+  .alaq-cosmetic-product-wrapper h2 {
+    font-size: 23px;
+  }
+  .alaq-cosmetic-banner-post-wrapper .cosmetic-banner-post .cosmetic-banner-content h6 {
+    font-size: 20px;
+    letter-spacing: 1px;
+  }
+}
+
+@media (max-width: 1540px) {
+  .alaq-my-profile-page-main-wrapper .my-profile-page-inner-wrapper .profile-side-panel-wrapper .nav-pills .nav-item .nav-link {
+    font-size: 20px;
+  }
+  .alaq-my-profile-page-main-wrapper .my-profile-page-inner-wrapper .profile-side-panel-wrapper .nav-pills .nav-item .nav-link span {
+    margin-right: 6px;
+  }
+  .alaq-my-profile-page-main-wrapper .my-profile-page-inner-wrapper .profile-information-wrapper .tab-content .tab-pane .product-wishlist-main-wrapper .product-wrapper {
+    width: 31%;
+  }
+}
+@media (max-width: 1366px) {
+  .alaq-product-category-main-wrapper .category-inner-wrapper .category-box {
+    width: 19%;
+  }
+  .alaq-my-profile-page-main-wrapper .my-profile-page-inner-wrapper .profile-side-panel-wrapper {
+    width: 30%;
+  }
+}
+@media (max-width: 1240px) {
+  .alaq-product-category-main-wrapper .product-category-single-wrapper .product-sidebar-wrapper .tab-content .tab-pane .tab-product-wrapper .product-wrapper .product-content h2 a {
+    width: 230px;
+    font-size: 15px;
+  }
+  .alaq-product-category-main-wrapper .product-category-single-wrapper .side-panel-box-wrapper .side-panel-inner .availability-content h2 {
+    font-size: 20px;
+  }
+  .alaq-product-category-main-wrapper .product-category-single-wrapper .side-panel-box-wrapper .side-panel-inner h4 {
+    font-size: 20px;
+  }
+  .alaq-product-category-main-wrapper .product-category-single-wrapper .side-panel-box-wrapper .side-panel-inner .panel-title h2 {
+    font-size: 20px;
+  }
+  .alaq-product-category-main-wrapper .product-category-single-wrapper .side-panel-box-wrapper .side-panel-inner .filter-content h2 {
+    font-size: 20px;
+  }
+  .alaq-page-column-main-wrapper .page-column-inner-wrapper .product-wrapper .product-content h2 a {
+    width: 230px;
+  }
+  .alaq-my-profile-page-main-wrapper .my-profile-page-inner-wrapper {
+    flex-direction: column;
+  }
+  .alaq-my-profile-page-main-wrapper .my-profile-page-inner-wrapper .profile-information-wrapper {
+    width: 100%;
+  }
+  .alaq-my-profile-page-main-wrapper .my-profile-page-inner-wrapper .profile-side-panel-wrapper {
+    width: 100%;
+  }
+  .alaq-my-profile-page-main-wrapper .my-profile-page-inner-wrapper .profile-side-panel-wrapper .nav-pills {
+    flex-direction: row;
+    width: 100%;
+    justify-content: space-around;
+  }
+  .alaq-my-profile-page-main-wrapper .my-profile-page-inner-wrapper .profile-side-panel-wrapper .nav-pills .nav-item .nav-link {
+    font-size: 18px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    row-gap: 12px;
+    padding: 20px;
+  }
+}
+@media (max-width: 1199px) {
+  .alaq-product-category-main-wrapper .category-inner-wrapper .category-box {
+    width: 24%;
+  }
+  .alaq-home-slider-wrapper .home-slider-wrapper .slide-wrapper {
+    justify-content: inherit;
+    gap: 24px;
+  }
+  .alaq-home-slider-wrapper .home-slider-wrapper .slide-wrapper .slide-caption {
+    max-width: inherit;
+  }
+  .alaq-home-slider-wrapper .home-slider-wrapper .slide-wrapper .slide-caption .offer {
+    padding-top: 6px;
+  }
+  .alaq-home-slider-wrapper .home-slider-wrapper .slide-wrapper .slide-img img {
+    width: 100%;
+  }
+  .alaq-product-category-main-wrapper .product-category-single-wrapper .product-sidebar-wrapper .accordion .accordion-item .accordion-header .accordion-button .product-text h4 {
+    font-size: 24px;
+  }
+  .alaq-product-category-main-wrapper .product-category-single-wrapper .product-sidebar-wrapper .tab-content .tab-pane .tab-product-wrapper.list-product-wrapper .product-wrapper .product-content .top-title {
+    padding: 0;
+  }
+  .alaq-product-category-main-wrapper .product-category-single-wrapper .product-sidebar-wrapper .tab-content .tab-pane .tab-product-wrapper.list-product-wrapper .product-wrapper .product-content h2 a {
+    font-size: 20px;
+  }
+  .alaq-product-category-main-wrapper .product-category-single-wrapper .product-sidebar-wrapper .tab-content .tab-pane .tab-product-wrapper.list-product-wrapper .product-wrapper .product-img {
+    padding: 20px;
+    display: flex;
+    align-items: center;
+  }
+  .alaq-page-breadcrumb-wrapper {
+    margin-top: 76px;
+  }
+  .alaq-page-column-main-wrapper .page-column-inner-wrapper.page-column-5-wrapper .product-wrapper .product-content h2 a {
+    width: 200px;
+  }
+  .alaq-product-single-main-wrapper .product-single-inner-wrapper {
+    flex-direction: column;
+  }
+  .alaq-product-single-main-wrapper .product-single-inner-wrapper .product-slider-content-wrapper {
+    width: 100%;
+  }
+  .alaq-product-single-main-wrapper .product-single-inner-wrapper .product-slider-wrapper {
+    width: 100%;
+  }
+  .alaq-product-single-main-wrapper .alaq-my-cart-main-wrapper {
+    flex-direction: column;
+  }
+  .alaq-product-single-main-wrapper .alaq-my-cart-main-wrapper .my-cart-details-wrapper {
+    width: 100%;
+  }
+  .alaq-product-single-main-wrapper .alaq-my-cart-main-wrapper .my-cart-gift-vaucher-wrapper {
+    width: 100%;
+  }
+  .alaq-blog-sidebar-inner-main-wrapper .alaq-blog-sidebar-inner-wrapper {
+    flex-direction: column;
+  }
+  .alaq-blog-sidebar-inner-main-wrapper .alaq-blog-sidebar-inner-wrapper .alaq-blog-sidebar-wrapper {
+    width: 100%;
+  }
+  .alaq-blog-sidebar-inner-main-wrapper .alaq-blog-sidebar-inner-wrapper .alaq-blog-side-penal-wrapper {
+    width: 100%;
+  }
+  .alaq-blog-sidebar-inner-main-wrapper .alaq-blog-sidebar-inner-wrapper .alaq-blog-single-sidebar-wrapper {
+    width: 100%;
+  }
+  .alaq-faq-inner-main-wrapper .alaq-faq-inner-wrapper .faq-img img {
+    width: 100%;
+  }
+  .alaq-faq-inner-main-wrapper .alaq-faq-inner-side-panel-wrapper {
+    flex-direction: column-reverse;
+  }
+  .alaq-faq-inner-main-wrapper .alaq-faq-inner-side-panel-wrapper .alaq-left-sidebar {
+    width: 100%;
+  }
+  .alaq-faq-inner-main-wrapper .alaq-faq-inner-side-panel-wrapper .alaq-right-sidebar {
+    width: 100%;
+  }
+  .alaq-faq-inner-main-wrapper .alaq-faq-inner-side-panel-wrapper .alaq-right-sidebar .profile-side-panel-wrapper .nav-pills {
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+  }
+  .alaq-faq-inner-main-wrapper .alaq-faq-inner-side-panel-wrapper .alaq-right-sidebar .profile-side-panel-wrapper .nav-pills .nav-item .nav-link {
+    font-size: 18px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    row-gap: 12px;
+    padding: 20px;
+  }
+  .alaq-faq-inner-main-wrapper .alaq-faq-inner-side-panel-wrapper .alaq-right-sidebar .profile-side-panel-wrapper .nav-pills .nav-item .nav-link span {
+    margin-right: 0;
+  }
+  .alaq-login-main-wrapper {
+    margin-top: 70px;
+  }
+  .alaq-coming-main-wrapper .coming-inner-wrapper .coming-img img {
+    width: 100%;
+  }
+  .alaq-blog-sidebar-inner-main-wrapper .alaq-blog-sidebar-inner-wrapper .alaq-blog-side-penal-wrapper .offer-banner-wrapper img {
+    width: 50%;
+    -o-object-fit: cover;
+       object-fit: cover;
+    margin: 0 auto;
+    display: block;
+  }
+  .alaq-blog-sidebar-inner-main-wrapper .pegination-wrapper {
+    width: 100%;
+  }
+}
+@media (max-width: 1099px) {
+  .alaq-product-single-main-wrapper .product-tab-main-wrapper .nav-pills .nav-item .nav-link {
+    padding: 12px 30px;
+  }
+  .alaq-product-single-main-wrapper .alaq-product-related-main-wrapper {
+    width: 100%;
+    padding: 60px 0px 0px 0px;
+  }
+  .alaq-product-single-main-wrapper .product-tab-main-wrapper .tab-content .tab-pane .review_wrapper .review_box1 .review_tab_box {
+    padding: 30px 18px;
+  }
+  .alaq-product-specification-main-wrapper .product-sidebar-wrapper .accordion .accordion-item .accordion-body .review_wrapper {
+    flex-wrap: wrap;
+    row-gap: 20px;
+  }
+  .alaq-product-specification-main-wrapper .product-sidebar-wrapper .accordion .accordion-item .accordion-body .review_wrapper .review_box1 {
+    width: 100%;
+  }
+  .alaq-product-specification-main-wrapper .product-sidebar-wrapper .accordion .accordion-item .accordion-body .review_wrapper .review_box2 {
+    width: 100%;
+  }
+}
+@media (max-width: 991px) {
+  .alaq-product-category-main-wrapper .category-inner-wrapper .category-box {
+    width: 32%;
+  }
+  .alaq-product-category-main-wrapper .product-category-single-wrapper .product-sidebar-wrapper .accordion .accordion-item .accordion-header .accordion-button .product-text p {
+    font-size: 14px;
+  }
+  .alaq-product-category-main-wrapper .product-category-single-wrapper .product-sidebar-wrapper .accordion .accordion-item .accordion-header .accordion-button .product-text h4 {
+    font-size: 20px;
+  }
+  .alaq-product-category-main-wrapper .product-category-single-wrapper .product-sidebar-wrapper .accordion .accordion-item .accordion-body ul li a p {
+    font-size: 16px;
+  }
+  .alaq-product-category-main-wrapper .product-category-single-wrapper .product-sidebar-wrapper .tab-content .tab-pane .tab-product-wrapper .product-wrapper {
+    width: 48%;
+  }
+  .alaq-page-column-main-wrapper .page-column-inner-wrapper .product-wrapper {
+    width: 32%;
+  }
+  .alaq-page-column-main-wrapper .page-column-inner-wrapper.page-column-5-wrapper .product-wrapper {
+    width: 23%;
+  }
+  .alaq-my-profile-page-main-wrapper .my-profile-page-inner-wrapper .profile-information-wrapper .tab-content .tab-pane .product-wishlist-main-wrapper .product-wrapper {
+    width: 48%;
+  }
+  .alaq-my-profile-page-main-wrapper .my-profile-page-inner-wrapper .profile-information-wrapper .tab-content .tab-pane .product-myorder-main-wrapper .product-myorder-block {
+    flex-direction: column-reverse;
+  }
+  .alaq-my-profile-page-main-wrapper .my-profile-page-inner-wrapper .profile-information-wrapper .tab-content .tab-pane .product-myorder-main-wrapper .product-myorder-block .product-order-name {
+    width: 100%;
+  }
+  .alaq-my-profile-page-main-wrapper .my-profile-page-inner-wrapper .profile-information-wrapper .tab-content .tab-pane .product-myorder-main-wrapper .product-myorder-block .product-order-deails {
+    width: 100%;
+  }
+  .alaq-about-main-inner-wrapper .about-inner-wrapper {
+    flex-direction: column;
+  }
+  .alaq-about-main-inner-wrapper .about-inner-wrapper .about-img-wrapper {
+    width: 100%;
+    height: 550px;
+  }
+  .alaq-about-main-inner-wrapper .about-inner-wrapper .about-img-wrapper img {
+    width: 100%;
+    -o-object-fit: cover;
+       object-fit: cover;
+    height: 100%;
+  }
+  .alaq-about-main-inner-wrapper .about-inner-wrapper .about-content-wrapper {
+    width: 100%;
+  }
+  .alaq-about-product-review-main-wrapper .product-review-main-wrapper {
+    flex-wrap: wrap;
+    row-gap: 20px;
+  }
+  .alaq-faq-main-inner-wrapper .alaq-faq-inner-wrapper {
+    flex-direction: column;
+  }
+  .alaq-faq-main-inner-wrapper .alaq-faq-inner-wrapper .asked-question-wrapper {
+    width: 100%;
+  }
+  .alaq-faq-main-inner-wrapper .alaq-faq-inner-wrapper .asked-image-wrapper {
+    width: 100%;
+    text-align: center;
+  }
+  .alaq-blog-main-inner-wrapper .alaq-blog-inner-wrapper {
+    flex-wrap: wrap;
+    row-gap: 20px;
+  }
+  .alaq-blog-main-inner-wrapper .alaq-blog-inner-wrapper .blog-main-wrapper {
+    width: 48%;
+  }
+  .alaq-blog-sidebar-inner-main-wrapper .alaq-blog-sidebar-inner-wrapper .alaq-blog-sidebar-wrapper .blog-main-wrapper .blog-content .date {
+    flex-wrap: wrap;
+    row-gap: 12px;
+  }
+  .alaq-blog-sidebar-inner-main-wrapper .alaq-blog-sidebar-inner-wrapper .alaq-blog-sidebar-wrapper .blog-main-wrapper .blog-content .date p {
+    font-size: 14px;
+  }
+  .alaq-blog-sidebar-inner-main-wrapper .alaq-blog-sidebar-inner-wrapper .alaq-blog-side-penal-wrapper {
+    width: 100%;
+  }
+  .alaq-blog-sidebar-inner-main-wrapper .alaq-blog-sidebar-inner-wrapper .alaq-blog-single-sidebar-wrapper .date {
+    justify-content: space-between;
+    flex-wrap: wrap;
+    row-gap: 10px;
+  }
+  .alaq-blog-sidebar-inner-main-wrapper .alaq-blog-sidebar-inner-wrapper .alaq-blog-single-sidebar-wrapper .date p {
+    width: inherit;
+  }
+  .alaq-blog-sidebar-inner-main-wrapper .alaq-blog-sidebar-inner-wrapper .alaq-blog-single-sidebar-wrapper h2 a {
+    font-size: 30px;
+    line-height: 34px;
+  }
+  .alaq-blog-sidebar-inner-main-wrapper .alaq-blog-sidebar-inner-wrapper .alaq-blog-single-sidebar-wrapper .comment-box-blog-wrapper .sec-title h2 {
+    font-size: 30px;
+  }
+  .alaq-blog-sidebar-inner-main-wrapper .alaq-blog-sidebar-inner-wrapper .alaq-blog-single-sidebar-wrapper .comment-box-blog-wrapper .sec-title h2:after {
+    top: 20px;
+    right: -112px;
+    width: 100px;
+  }
+  .alaq-blog-sidebar-inner-main-wrapper .alaq-blog-sidebar-inner-wrapper .alaq-blog-single-sidebar-wrapper .comment-box-blog-wrapper .comment-box-wrapper .com-user {
+    width: 20%;
+    border-radius: 0;
+  }
+  .alaq-blog-sidebar-inner-main-wrapper .alaq-blog-sidebar-inner-wrapper .alaq-blog-single-sidebar-wrapper .comment-box-blog-wrapper .comment-box-wrapper .com-text {
+    width: 80%;
+  }
+  .alaq-blog-sidebar-inner-main-wrapper .alaq-blog-sidebar-inner-wrapper .alaq-blog-single-sidebar-wrapper .comment-box-blog-wrapper .comment-box-wrapper .com-text h4 a {
+    font-size: 20px;
+  }
+  .alaq-blog-sidebar-inner-main-wrapper .alaq-blog-sidebar-inner-wrapper .alaq-blog-single-sidebar-wrapper .tag-blog-wrapper {
+    flex-direction: column;
+    align-items: flex-start;
+    row-gap: 14px;
+  }
+  .alaq-contact-inner-main-wrapper .alaq-contact-inner-wrapper .contact-block-wrapper .contact-text h4 {
+    font-size: 20px;
+  }
+  .alaq-contact-inner-main-wrapper .alaq-contact-inner-wrapper .contact-block-wrapper .contact-text a {
+    font-size: 16px;
+  }
+  .alaq-contact-inner-main-wrapper .alaq-contact-inner-wrapper .contact-block-wrapper .contact-text p {
+    font-size: 16px;
+  }
+  .alaq-contact-inner-main-wrapper .alaq-contact-form-wrapper {
+    flex-direction: column;
+    row-gap: 20px;
+  }
+  .alaq-contact-inner-main-wrapper .alaq-contact-form-wrapper .contact-form {
+    width: 100%;
+  }
+  .alaq-contact-inner-main-wrapper .alaq-contact-form-wrapper .contact-form .sec-title h2 {
+    font-size: 28px;
+  }
+  .alaq-contact-inner-main-wrapper .alaq-contact-form-wrapper .contact-form .sec-title h2:after {
+    top: 18px;
+    right: -100px;
+    width: 90px;
+  }
+  .alaq-contact-inner-main-wrapper .alaq-contact-form-wrapper .contact-form .sec-title p {
+    font-size: 16px;
+  }
+  .alaq-contact-inner-main-wrapper .alaq-contact-form-wrapper .contact-img {
+    width: 100%;
+  }
+  .alaq-contact-inner-main-wrapper .alaq-contact-form-wrapper .contact-img img {
+    width: 100%;
+  }
+  .alaq-faq-inner-main-wrapper .alaq-faq-inner-wrapper {
+    flex-direction: column;
+  }
+  .alaq-faq-inner-main-wrapper .alaq-faq-inner-wrapper .faq-text {
+    width: 100%;
+  }
+  .alaq-faq-inner-main-wrapper .alaq-faq-inner-wrapper .faq-img {
+    width: 100%;
+    text-align: center;
+  }
+  .alaq-faq-inner-main-wrapper .alaq-faq-inner-wrapper .faq-img img {
+    width: initial;
+  }
+  .alaq-faq-inner-main-wrapper .alaq-faq-inner-side-panel-wrapper {
+    padding: 50px 0px;
+  }
+  .alaq-login-main-wrapper .login-inner-block-wrapper {
+    flex-direction: column;
+  }
+  .alaq-login-main-wrapper .login-inner-block-wrapper .login-content {
+    width: 100%;
+  }
+  .alaq-login-main-wrapper .login-inner-block-wrapper .login-img {
+    width: 100%;
+  }
+  .alaq-error-main-wrapper .error-inner-wrapper .error-img img {
+    width: 100%;
+  }
+  .alaq-product-single-main-wrapper .alaq-my-cart-main-wrapper .my-cart-details-wrapper .table tbody tr td:first-child {
+    width: 280px;
+  }
+  .alaq-product-single-main-wrapper .alaq-my-cart-main-wrapper .my-cart-details-wrapper .table tbody tr td .cart-product {
+    display: flex;
+    gap: 10px;
+  }
+  .alaq-product-single-main-wrapper .alaq-my-cart-main-wrapper .my-cart-details-wrapper .table tbody tr td .cart-product .cart-details h4 a {
+    font-size: 18px;
+  }
+  .alaq-product-single-main-wrapper .alaq-my-cart-main-wrapper .my-cart-details-wrapper .table tbody tr td h4 {
+    font-size: 18px;
+  }
+  .alaq-product-single-main-wrapper .alaq-my-cart-main-wrapper .my-cart-details-wrapper .table tbody tr td .quantity-field .value-button {
+    width: 30px;
+    height: 30px;
+    font-size: 20px;
+    line-height: 0px;
+    padding: 0px 0px 0px;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .alaq-product-single-main-wrapper .alaq-my-cart-main-wrapper .my-cart-details-wrapper .table tbody tr td .quantity-field .number {
+    width: 30px;
+    height: 30px;
+    line-height: 30px;
+  }
+  .alaq-product-single-main-wrapper .alaq-my-cart-main-wrapper .my-cart-details-wrapper .table thead tr th {
+    font-size: 18px;
+  }
+  .alaq-product-single-main-wrapper .alaq-my-cart-main-wrapper .my-cart-details-wrapper .table tbody tr td .cart-product .cart-details {
+    width: 230px;
+  }
+  .alaq-video-main-wrapper .video-box-wrapper .video-wrap {
+    height: 450px;
+  }
+  .alaq-video-main-wrapper .video-box-wrapper .video-wrap .video-img img {
+    -o-object-fit: cover;
+       object-fit: cover;
+  }
+  .alaq-page-column-main-wrapper .pegination-wrapper ul {
+    justify-content: center;
+  }
+  .alaq-product-category-main-wrapper .product-category-single-wrapper {
+    flex-wrap: wrap;
+  }
+  .alaq-product-category-main-wrapper .product-category-single-wrapper .product-sidebar-wrapper {
+    width: 100%;
+  }
+  .alaq-product-category-main-wrapper .product-category-single-wrapper .side-panel-box-wrapper {
+    width: 100%;
+  }
+  .alaq-product-category-main-wrapper .product-category-single-wrapper .side-panel-box-wrapper .post-img img {
+    width: 60%;
+    display: block;
+    margin: 0 auto;
+  }
+  .alaq-product-single-main-wrapper .product-tab-main-wrapper .tab-content .tab-pane .review_wrapper {
+    flex-wrap: wrap;
+    row-gap: 30px;
+  }
+  .alaq-product-single-main-wrapper .product-tab-main-wrapper .tab-content .tab-pane .review_wrapper .review_box1 {
+    width: 100%;
+  }
+  .alaq-product-single-main-wrapper .product-tab-main-wrapper .tab-content .tab-pane .review_wrapper .review_box2 h6 {
+    margin-top: 0px;
+  }
+  .alaq-product-single-main-wrapper .product-tab-main-wrapper .tab-content .tab-pane .review_wrapper .review_box2 {
+    width: 100%;
+  }
+  .alaq-product-single-main-wrapper .product-tab-main-wrapper .tab-content .tab-pane .description_box .descri_txt_box {
+    margin: 0px 0px;
+  }
+  .alaq-product-single-main-wrapper .product-tab-main-wrapper {
+    padding: 30px 30px;
+  }
+  .alaq-product-single-main-wrapper .product-single-inner-wrapper .product-slider-wrapper .multi-btn {
+    margin-left: 0%;
+    width: 80%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+    padding: 20px 0px 0px 0px;
+  }
+  .alaq-product-single-main-wrapper .product-single-inner-wrapper .product-slider-wrapper .multi-btn .alaq-btn {
+    width: 100%;
+    text-align: center;
+  }
+  .alaq-product-specification-main-wrapper .product-sidebar-wrapper .accordion .accordion-item .accordion-body .description_box .descri_txt_box {
+    display: flex;
+    margin: 10px 0px;
+  }
+  .alaq-product-specification-main-wrapper .product-sidebar-wrapper .accordion .accordion-item .accordion-header .accordion-button {
+    font-size: 24px;
+  }
+  .alaq-blog-sidebar-inner-main-wrapper .alaq-blog-sidebar-inner-wrapper .alaq-blog-single-sidebar-wrapper .blog_video_wrapper {
+    height: 500px;
+  }
+  .alaq-blog-sidebar-inner-main-wrapper .alaq-blog-sidebar-inner-wrapper .alaq-blog-sidebar-wrapper .blog-main-wrapper .blog_video {
+    height: 300px;
+  }
+  .alaq-my-profile-page-main-wrapper .my-profile-page-inner-wrapper .profile-side-panel-wrapper .nav-pills {
+    flex-direction: inherit;
+    width: 100%;
+    justify-content: space-around;
+    overflow-x: scroll;
+    -moz-column-gap: 15px;
+         column-gap: 15px;
+    flex-wrap: nowrap;
+  }
+  .alaq-my-profile-page-main-wrapper .my-profile-page-inner-wrapper .profile-side-panel-wrapper .nav-pills .nav-item .nav-link {
+    width: 170px;
+    padding: 20px 0px;
+  }
+  .alaq-product-category-main-wrapper .product-category-single-wrapper .toggleButton {
+    display: block;
+  }
+  .alaq-product-category-main-wrapper .product-category-single-wrapper .side-panel-box-wrapper {
+    position: absolute;
+    z-index: 99;
+    top: 75px;
+    left: 0;
+    width: 500px;
+    height: auto;
+    max-height: 100%;
+    margin-left: -10px;
+    padding: 30px 30px;
+    background: #fff;
+    transform: translateX(0);
+    transition: all 0.3s ease;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  }
+  .alaq-product-category-main-wrapper .product-category-single-wrapper .side-panel-box-wrapper.hide {
+    transform: translateX(-100%);
+  }
+}
+@media (max-width: 767px) {
+  .alaq-home-slider-wrapper .home-slider-wrapper .slide-wrapper {
+    flex-direction: column;
+  }
+  .alaq-home-slider-wrapper .home-slider-wrapper .slide-wrapper .slide-img {
+    width: 100%;
+  }
+  .alaq-home-slider-wrapper .home-slider-wrapper .slide-wrapper .slide-caption {
+    width: 100%;
+  }
+  .alaq-product-category-main-wrapper .product-category-single-wrapper {
+    flex-direction: column;
+  }
+  .alaq-product-category-main-wrapper .product-category-single-wrapper .product-sidebar-wrapper {
+    width: 100%;
+  }
+  .alaq-product-category-main-wrapper .product-category-single-wrapper .side-panel-box-wrapper {
+    width: 100%;
+  }
+  .alaq-product-category-main-wrapper .product-grid-sidebar-wrapper .side-panel-box-wrapper {
+    width: 100%;
+  }
+  .alaq-page-column-main-wrapper .page-column-inner-wrapper .product-wrapper {
+    width: 48%;
+  }
+  .alaq-page-column-main-wrapper .page-column-inner-wrapper.page-column-5-wrapper .product-wrapper {
+    width: 31%;
+  }
+  .alaq-product-single-shopping .product-single-inner-wrapper {
+    flex-direction: column;
+  }
+  .alaq-product-single-shopping .product-single-inner-wrapper .product-slider-wrapper {
+    width: 100%;
+  }
+  .alaq-product-single-shopping .product-single-inner-wrapper .product-slider-content-wrapper {
+    width: 100%;
+  }
+  .alaq-my-profile-page-main-wrapper .my-profile-page-inner-wrapper .profile-information-wrapper .tab-content .tab-pane .profile-editing-main-wrapper {
+    flex-direction: column;
+  }
+  .alaq-my-profile-page-main-wrapper .my-profile-page-inner-wrapper .profile-information-wrapper .tab-content .tab-pane .profile-editing-main-wrapper .edit-profile-picture {
+    width: 100%;
+  }
+  .alaq-my-profile-page-main-wrapper .my-profile-page-inner-wrapper .profile-information-wrapper .tab-content .tab-pane .profile-editing-main-wrapper .edit-profile-picture .small-12 .p-image {
+    right: 36%;
+  }
+  .alaq-my-profile-page-main-wrapper .my-profile-page-inner-wrapper .profile-information-wrapper .tab-content .tab-pane .profile-editing-main-wrapper .edit-password-wrapper {
+    width: 100%;
+    margin-top: 30px;
+  }
+  .alaq-my-profile-page-main-wrapper .my-profile-page-inner-wrapper .profile-information-wrapper .tab-content .tab-pane .personal-info-main-wrapper .shipping-address-block-wrapper .address-block-wrapper {
+    width: 100%;
+  }
+  .alaq-about-product-review-main-wrapper .product-review-main-wrapper {
+    justify-content: inherit;
+  }
+  .alaq-about-product-review-main-wrapper .product-review-main-wrapper .review-box-wrapper {
+    width: 46%;
+  }
+  .alaq-contact-inner-main-wrapper .alaq-contact-inner-wrapper {
+    flex-wrap: wrap;
+    row-gap: 20px;
+  }
+  .alaq-contact-inner-main-wrapper .alaq-contact-inner-wrapper .contact-block-wrapper {
+    width: 48%;
+  }
+  .alaq-product-single-main-wrapper .alaq-my-cart-main-wrapper .my-cart-details-wrapper .table tbody tr td .remove {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    flex-direction: column;
+    row-gap: 10px;
+  }
+  .alaq-product-single-main-wrapper .alaq-my-cart-main-wrapper .my-cart-details-wrapper .table tbody tr td .cart-product .cart-img {
+    width: 65px;
+  }
+  .alaq-product-single-main-wrapper .alaq-my-cart-main-wrapper .my-cart-details-wrapper .table thead tr th {
+    font-size: 16px;
+    text-align: center;
+  }
+  .alaq-product-single-main-wrapper .alaq-my-cart-main-wrapper .my-cart-details-wrapper .table tbody tr td h4 {
+    font-size: 16px;
+    width: 150px;
+    text-align: center;
+  }
+  .alaq-product-single-main-wrapper .alaq-my-cart-main-wrapper .my-cart-details-wrapper .table tbody tr td .cart-product .cart-details h4 a {
+    font-size: 16px;
+  }
+  .alaq-product-single-main-wrapper .alaq-my-cart-main-wrapper .my-cart-details-wrapper .table tbody tr td .cart-product .cart-details p {
+    font-size: 14px;
+  }
+  .alaq-product-single-main-wrapper .alaq-my-cart-main-wrapper .my-cart-details-wrapper .alaq-accordion .accordion .accordion-item .accordion-body .checkout-method-wrapper {
+    flex-wrap: wrap;
+    row-gap: 20px;
+  }
+  .alaq-product-single-main-wrapper .alaq-my-cart-main-wrapper .my-cart-details-wrapper .alaq-accordion .accordion .accordion-item .accordion-body .checkout-method-wrapper .new_customer {
+    width: 100%;
+    padding-bottom: 0px;
+  }
+  .alaq-product-single-main-wrapper .alaq-my-cart-main-wrapper .my-cart-details-wrapper .alaq-accordion .accordion .accordion-item .accordion-body .checkout-method-wrapper .login_form {
+    width: 100%;
+    padding-bottom: 15px;
+  }
+  .alaq-product-single-main-wrapper .product-tab-main-wrapper .tab-content .tab-pane .review_wrapper .review_box2 ul li .comment_box p {
+    font-size: 16px;
+  }
+  .alaq-product-specification-main-wrapper .product-sidebar-wrapper .accordion .accordion-item .accordion-body .description_box .descri_txt_box {
+    flex-wrap: wrap;
+    flex-direction: column;
+    row-gap: 20px;
+  }
+  .alaq-product-specification-main-wrapper .product-sidebar-wrapper .accordion .accordion-item .accordion-body .description_box .descri_txt_box p {
+    width: 100%;
+  }
+  .alaq-product-specification-main-wrapper .product-sidebar-wrapper .accordion .accordion-item .accordion-body .description_box .descri_txt_box h6 {
+    width: 100%;
+  }
+  .alaq-product-specification-main-wrapper .product-sidebar-wrapper .accordion .accordion-item .accordion-body .description_box h3 {
+    font-size: 35px;
+  }
+  .alaq-product-specification-main-wrapper .product-sidebar-wrapper .accordion .accordion-item .accordion-body .review_wrapper .review_box1 h6 {
+    margin-top: 0px;
+  }
+  .alaq-product-specification-main-wrapper .product-sidebar-wrapper .accordion .accordion-item .accordion-body {
+    padding: 0px 25px 30px 25px;
+  }
+  .alaq-product-specification-main-wrapper .product-sidebar-wrapper .accordion .accordion-item .accordion-header .accordion-button:after {
+    width: 45px;
+    height: 45px;
+  }
+  .alaq-blog-sidebar-inner-main-wrapper .alaq-blog-sidebar-inner-wrapper .alaq-blog-sidebar-wrapper .blog-main-wrapper .blog_video {
+    height: 230px;
+  }
+}
+@media (max-width: 640px) {
+  .alaq-product-category-main-wrapper .category-inner-wrapper .category-box {
+    width: 48%;
+  }
+  .alaq-product-category-main-wrapper .product-grid-sidebar-wrapper .product-sidebar-wrapper .tab-content .tab-pane .tab-product-wrapper {
+    gap: 0px;
+  }
+  .alaq-product-category-main-wrapper .product-grid-sidebar-wrapper .product-sidebar-wrapper .tab-content .tab-pane .tab-product-wrapper.list-product-wrapper {
+    row-gap: 20px;
+  }
+  .alaq-product-category-main-wrapper .product-grid-sidebar-wrapper .product-sidebar-wrapper .top-filter-wrapper {
+    flex-direction: column;
+    row-gap: 24px;
+  }
+  .alaq-page-column-main-wrapper .page-column-inner-wrapper.page-column-5-wrapper .product-wrapper {
+    width: 47%;
+  }
+  .alaq-product-single-main-wrapper .product-single-inner-wrapper .product-slider-wrapper {
+    width: 100%;
+  }
+  .alaq-product-single-main-wrapper .product-single-inner-wrapper .product-slider-wrapper .multi-btn {
+    flex-direction: column;
+    margin-top: 15px;
+    margin-left: 0;
+  }
+  .alaq-product-single-main-wrapper .alaq-my-cart-main-wrapper .my-cart-gift-vaucher-wrapper {
+    width: 100%;
+  }
+  .alaq-my-profile-page-main-wrapper .my-profile-page-inner-wrapper .profile-information-wrapper .tab-content .tab-pane .product-myorder-main-wrapper .product-myorder-block .product-order-name .top-title-order {
+    flex-wrap: wrap;
+  }
+  .alaq-my-profile-page-main-wrapper .my-profile-page-inner-wrapper .profile-information-wrapper .tab-content .tab-pane .product-myorder-main-wrapper .product-myorder-block .product-order-name .top-title-order .multi-btn {
+    flex-wrap: wrap;
+  }
+  .alaq-about-product-review-main-wrapper .product-review-main-wrapper {
+    justify-content: inherit;
+  }
+  .alaq-about-product-review-main-wrapper .product-review-main-wrapper .review-box-wrapper {
+    width: 100%;
+  }
+  .alaq-blog-sidebar-inner-main-wrapper .alaq-blog-sidebar-inner-wrapper .alaq-blog-sidebar-wrapper .blog-main-wrapper {
+    width: 100%;
+  }
+  .alaq-blog-sidebar-inner-main-wrapper .alaq-blog-sidebar-inner-wrapper .alaq-blog-side-penal-wrapper {
+    width: 100%;
+  }
+  .alaq-blog-sidebar-inner-main-wrapper .pegination-wrapper {
+    width: 100%;
+  }
+  .alaq-faq-inner-main-wrapper .alaq-faq-inner-wrapper {
+    padding: 30px;
+  }
+  .alaq-faq-inner-main-wrapper .alaq-faq-inner-wrapper .faq-img img {
+    width: 100%;
+  }
+  .alaq-login-main-wrapper .login-inner-block-wrapper .login-content .sec-title h2 {
+    font-size: 30px;
+  }
+  .alaq-login-main-wrapper .login-inner-block-wrapper .login-content .sec-title h2:after {
+    right: -80px;
+    width: 70px;
+  }
+  .alaq-coming-main-wrapper .coming-inner-wrapper .coming-content h2 a {
+    font-size: 20px;
+  }
+  .alaq-coming-main-wrapper .coming-inner-wrapper .coming-img {
+    padding-top: 60px;
+  }
+  .alaq-product-single-main-wrapper .product-tab-main-wrapper .tab-content .tab-pane .description_box .descri_txt_box {
+    row-gap: 20px;
+    flex-wrap: wrap;
+    flex-direction: column;
+  }
+  .alaq-product-single-main-wrapper .product-tab-main-wrapper .tab-content .tab-pane .description_box .descri_txt_box h6 {
+    width: 100%;
+  }
+  .alaq-product-single-main-wrapper .product-tab-main-wrapper .tab-content .tab-pane .description_box .descri_txt_box p {
+    width: 100%;
+  }
+  .alaq-product-single-main-wrapper .product-single-inner-wrapper .product-slider-wrapper .multi-btn {
+    width: 100%;
+    padding: 0px 0px 0px 0px;
+  }
+  .alaq-product-single-main-wrapper .product-tab-main-wrapper .tab-content .tab-pane .description_box h3 {
+    font-size: 35px;
+  }
+}
+@media (max-width: 575px) {
+  .alaq-my-profile-page-main-wrapper .my-profile-page-inner-wrapper .profile-information-wrapper .tab-content .tab-pane .profile-editing-main-wrapper {
+    flex-direction: column;
+  }
+  .alaq-my-profile-page-main-wrapper .my-profile-page-inner-wrapper .profile-information-wrapper .tab-content .tab-pane .profile-editing-main-wrapper .edit-profile-picture {
+    width: 100%;
+  }
+  .alaq-my-profile-page-main-wrapper .my-profile-page-inner-wrapper .profile-information-wrapper .tab-content .tab-pane .profile-editing-main-wrapper .edit-profile-picture .small-12 .p-image {
+    right: 31%;
+  }
+  .alaq-my-profile-page-main-wrapper .my-profile-page-inner-wrapper .profile-information-wrapper .tab-content .tab-pane .personal-info-main-wrapper form .multi-btn {
+    flex-direction: column;
+    gap: 0;
+  }
+  .alaq-my-profile-page-main-wrapper .my-profile-page-inner-wrapper .profile-information-wrapper .tab-content .tab-pane .personal-info-main-wrapper .top-title-wrapper {
+    flex-wrap: wrap;
+    row-gap: 12px;
+  }
+  .alaq-my-profile-page-main-wrapper .my-profile-page-inner-wrapper .profile-information-wrapper .tab-content .tab-pane .personal-info-main-wrapper .top-title-wrapper h4 {
+    font-size: 20px;
+  }
+  .alaq-my-profile-page-main-wrapper .my-profile-page-inner-wrapper .profile-information-wrapper .tab-content .tab-pane .product-wishlist-main-wrapper .product-wrapper {
+    width: 100%;
+  }
+  .alaq-blog-main-inner-wrapper .alaq-blog-inner-wrapper .blog-main-wrapper {
+    width: 100%;
+  }
+  .alaq-about-main-inner-wrapper .about-inner-wrapper .about-content-wrapper .sec-title h2 {
+    font-size: 30px;
+  }
+  .alaq-about-main-inner-wrapper .about-inner-wrapper .about-content-wrapper .sec-title h2:after {
+    top: 20px;
+    right: -100px;
+    width: 90px;
+  }
+  .alaq-about-main-inner-wrapper .about-inner-wrapper .about-content-wrapper h4 a {
+    font-size: 18px;
+    line-height: 24px;
+  }
+  .alaq-about-main-inner-wrapper .about-inner-wrapper .about-content-wrapper p {
+    font-size: 14px;
+  }
+  .alaq-our-client-main-wrapper .sec-title h2 {
+    font-size: 30px;
+  }
+  .alaq-our-client-main-wrapper .sec-title h2:after {
+    left: 120px;
+    bottom: 0;
+    width: 60px;
+  }
+  .alaq-faq-main-inner-wrapper {
+    padding: 14px 0px 50px;
+  }
+  .alaq-faq-main-inner-wrapper .alaq-faq-inner-wrapper .asked-question-wrapper .sec-title h2 {
+    font-size: 30px;
+  }
+  .alaq-faq-main-inner-wrapper .alaq-faq-inner-wrapper .asked-question-wrapper .sec-title h2:after {
+    display: none;
+  }
+  .alaq-blog-main-inner-wrapper .sec-title h2 {
+    font-size: 30px;
+  }
+  .alaq-blog-main-inner-wrapper .sec-title h2:after {
+    left: 44px;
+  }
+  .alaq-contact-inner-main-wrapper .alaq-contact-inner-wrapper .contact-block-wrapper {
+    width: 100%;
+  }
+  .alaq-faq-inner-main-wrapper .alaq-faq-inner-wrapper .faq-text .input-box .alaq-btn {
+    position: inherit;
+  }
+  .alaq-faq-inner-main-wrapper .alaq-faq-inner-side-panel-wrapper .alaq-left-sidebar .alaq-accordion .accordion .accordion-item .accordion-header .accordion-button h4 {
+    padding-right: 40px;
+  }
+  .alaq-login-main-wrapper .login-inner-block-wrapper .login-content {
+    padding: 20px 10px;
+  }
+  .alaq-about-main-inner-wrapper .about-inner-wrapper .about-img-wrapper {
+    height: 400px;
+  }
+  .alaq-blog-sidebar-inner-main-wrapper .alaq-blog-sidebar-inner-wrapper .alaq-blog-single-sidebar-wrapper h2 a {
+    font-size: 26px;
+  }
+  .alaq-blog-sidebar-inner-main-wrapper .alaq-blog-sidebar-inner-wrapper .alaq-blog-single-sidebar-wrapper .comment-box-blog-wrapper .sec-title h2 {
+    font-size: 26px;
+  }
+  .alaq-blog-sidebar-inner-main-wrapper .alaq-blog-sidebar-inner-wrapper .alaq-blog-single-sidebar-wrapper .comment-box-blog-wrapper .comment-box-wrapper .com-text h4 span {
+    padding-left: 20px;
+  }
+  .alaq-product-category-main-wrapper .product-category-single-wrapper .side-panel-box-wrapper .post-img img {
+    width: 70%;
+  }
+  .alaq-home-slider-wrapper .home-slider-wrapper {
+    padding: 40px 30px;
+  }
+  .alaq-product-single-main-wrapper .product-tab-main-wrapper .tab-content .tab-pane .review_wrapper .review_box1 .review_tab_box .review_rating_text .rating1 h3 {
+    font-size: 60px;
+  }
+  .alaq-blog-sidebar-inner-main-wrapper .alaq-blog-sidebar-inner-wrapper .alaq-blog-single-sidebar-wrapper .blog_video_wrapper {
+    height: 450px;
+  }
+  .alaq-blog-sidebar-inner-main-wrapper .alaq-blog-sidebar-inner-wrapper .alaq-blog-sidebar-wrapper .blog-main-wrapper .blog_video {
+    height: 280px;
+  }
+}
+@media (max-width: 480px) {
+  .alaq-product-category-main-wrapper .product-category-single-wrapper .side-panel-box-wrapper {
+    width: 100%;
+  }
+  .alaq-product-category-main-wrapper .product-category-single-wrapper .product-sidebar-wrapper .accordion .accordion-item .accordion-header .accordion-button {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .alaq-product-category-main-wrapper .product-grid-sidebar-wrapper .product-sidebar-wrapper .tab-content .tab-pane .tab-product-wrapper .product-wrapper {
+    width: 100%;
+  }
+  .alaq-product-category-main-wrapper .product-category-single-wrapper .product-sidebar-wrapper .tab-content .tab-pane .tab-product-wrapper.list-product-wrapper .product-wrapper {
+    flex-direction: column;
+  }
+  .alaq-product-category-main-wrapper .product-category-single-wrapper .product-sidebar-wrapper .tab-content .tab-pane .tab-product-wrapper.list-product-wrapper .product-wrapper .product-img {
+    width: 100%;
+    border-bottom: 1px solid rgba(248, 89, 52, 0.5);
+    border-right: 0;
+  }
+  .alaq-product-category-main-wrapper .product-category-single-wrapper .product-sidebar-wrapper .tab-content .tab-pane .tab-product-wrapper.list-product-wrapper .product-wrapper .product-content {
+    width: 100%;
+  }
+  .alaq-product-category-main-wrapper .product-category-single-wrapper .product-sidebar-wrapper .tab-content .tab-pane .tab-product-wrapper.list-product-wrapper .product-wrapper .product-content p {
+    width: auto;
+  }
+  .alaq-page-column-main-wrapper .page-column-inner-wrapper .product-wrapper {
+    width: 100%;
+  }
+  .alaq-page-column-main-wrapper .page-column-inner-wrapper.page-column-5-wrapper .product-wrapper {
+    width: 100%;
+  }
+  .alaq-product-single-main-wrapper .product-single-inner-wrapper .product-slider-content-wrapper .multi-btn {
+    flex-direction: column;
+  }
+  .alaq-product-specification-main-wrapper .product-sidebar-wrapper .accordion .accordion-item .accordion-header .accordion-button .product-text h4 {
+    font-size: 24px;
+  }
+  .alaq-product-single-main-wrapper .alaq-product-related-main-wrapper .related-pro-slider {
+    padding: 0;
+  }
+  .alaq-product-single-main-wrapper .alaq-product-related-main-wrapper .related-pro-slider .owl-nav .owl-prev {
+    position: inherit;
+    left: inherit;
+    top: inherit;
+  }
+  .alaq-product-single-main-wrapper .alaq-product-related-main-wrapper .related-pro-slider .owl-nav .owl-next {
+    position: inherit;
+    left: inherit;
+    top: inherit;
+  }
+  .alaq-my-profile-page-main-wrapper .my-profile-page-inner-wrapper .profile-information-wrapper .tab-content .tab-pane .profile-editing-main-wrapper {
+    flex-direction: column;
+  }
+  .alaq-my-profile-page-main-wrapper .my-profile-page-inner-wrapper .profile-information-wrapper .tab-content .tab-pane .profile-editing-main-wrapper .edit-profile-picture .small-12 .p-image {
+    right: 25%;
+  }
+  .alaq-my-profile-page-main-wrapper .my-profile-page-inner-wrapper .profile-information-wrapper .tab-content .tab-pane .personal-info-main-wrapper form .form-group .input-box .gender-wrapper {
+    flex-wrap: wrap;
+  }
+  .alaq-my-profile-page-main-wrapper .my-profile-page-inner-wrapper .profile-information-wrapper .tab-content .tab-pane .personal-info-main-wrapper .shipping-address-block-wrapper .address-block-wrapper .add-block .multi-btn {
+    gap: 8px;
+  }
+  .alaq-my-profile-page-main-wrapper .my-profile-page-inner-wrapper .profile-information-wrapper .tab-content .tab-pane .personal-info-main-wrapper .shipping-address-block-wrapper .address-block-wrapper .add-block .multi-btn a {
+    font-size: 14px;
+  }
+  .alaq-my-profile-page-main-wrapper .my-profile-page-inner-wrapper .profile-information-wrapper .tab-content .tab-pane .personal-info-main-wrapper .shipping-address-block-wrapper .address-block-wrapper .add-block .multi-btn a + a {
+    padding-left: 8px;
+  }
+  .alaq-my-profile-page-main-wrapper .my-profile-page-inner-wrapper .profile-information-wrapper .tab-content .tab-pane .personal-info-main-wrapper .shipping-address-block-wrapper.shipping-payment-method .address-block-wrapper .location-title {
+    flex-wrap: wrap;
+  }
+  .alaq-my-profile-page-main-wrapper .my-profile-page-inner-wrapper .profile-information-wrapper .tab-content .tab-pane .personal-info-main-wrapper .shipping-address-block-wrapper.shipping-payment-method .address-block-wrapper .add-block .exp-card-wrapper {
+    gap: 10px;
+    flex-wrap: wrap;
+  }
+  .alaq-my-profile-page-main-wrapper .my-profile-page-inner-wrapper .profile-information-wrapper .tab-content .tab-pane .product-myorder-main-wrapper .product-myorder-block .product-order-name .product-img-wrapper {
+    flex-wrap: wrap;
+  }
+  .alaq-blog-sidebar-inner-main-wrapper .alaq-blog-sidebar-inner-wrapper .alaq-blog-single-sidebar-wrapper .comment-box-blog-wrapper .comment-box-wrapper {
+    flex-direction: column;
+  }
+  .alaq-blog-sidebar-inner-main-wrapper .alaq-blog-sidebar-inner-wrapper .alaq-blog-single-sidebar-wrapper .comment-box-blog-wrapper .comment-box-wrapper .com-text {
+    width: 100%;
+  }
+  .alaq-blog-sidebar-inner-main-wrapper .alaq-blog-sidebar-inner-wrapper .alaq-blog-single-sidebar-wrapper .comment-box-blog-wrapper .comment-box-wrapper .com-user {
+    width: 34%;
+  }
+  .alaq-faq-inner-main-wrapper .alaq-faq-inner-side-panel-wrapper .alaq-right-sidebar .profile-side-panel-wrapper .nav-pills .nav-item {
+    width: 100%;
+  }
+  .alaq-login-main-wrapper .login-inner-block-wrapper .login-content .sec-title h2 {
+    font-size: 30px;
+  }
+  .alaq-login-main-wrapper .login-inner-block-wrapper .login-content .sec-title h2:after {
+    display: none;
+  }
+  .alaq-login-main-wrapper .login-inner-block-wrapper .login-content form .multi-btn {
+    flex-wrap: wrap;
+  }
+  .alaq-login-main-wrapper .login-inner-block-wrapper .login-content form .form-group .inputs {
+    flex-wrap: wrap;
+  }
+  .alaq-login-main-wrapper .login-inner-block-wrapper .login-content form .form-group .inputs .rounded {
+    width: 60px;
+    height: 60px;
+  }
+  .alaq-coming-main-wrapper .coming-inner-wrapper .coming-content .input-box {
+    max-width: 100%;
+    margin: 0;
+    flex-wrap: wrap;
+  }
+  .alaq-coming-main-wrapper .coming-inner-wrapper .coming-content .input-box .alaq-btn {
+    position: inherit;
+    top: inherit;
+    right: inherit;
+    margin-left: auto;
+  }
+  .alaq-my-profile-page-main-wrapper .my-profile-page-inner-wrapper .profile-information-wrapper .tab-content .tab-pane .personal-info-main-wrapper {
+    padding: 30px 20px;
+  }
+  .alaq-blog-sidebar-inner-main-wrapper .alaq-blog-sidebar-inner-wrapper .alaq-blog-side-penal-wrapper .offer-banner-wrapper img {
+    width: 80%;
+  }
+  .alaq-blog-sidebar-inner-main-wrapper .alaq-blog-sidebar-inner-wrapper .alaq-blog-side-penal-wrapper .side-panel-inner .cat label span {
+    font-size: 15px;
+    padding: 8px 8px;
+  }
+  .alaq-blog-sidebar-inner-main-wrapper .alaq-blog-sidebar-inner-wrapper .alaq-blog-single-sidebar-wrapper .comment-box-blog-wrapper .comment-box-wrapper .com-text h4 a {
+    font-size: 18px;
+  }
+  .alaq-product-single-main-wrapper .alaq-product-related-main-wrapper {
+    padding: 25px 0px 10px 0px;
+  }
+  .alaq-product-category-main-wrapper .product-category-single-wrapper .product-sidebar-wrapper .accordion .accordion-item .accordion-header .accordion-button:after {
+    margin: 0;
+  }
+  .alaq-product-specification-main-wrapper .product-sidebar-wrapper .accordion .accordion-item .accordion-body .review_wrapper .review_box2 ul li .comment_box .comment_rating_box .post_person_box {
+    -moz-column-gap: 12px;
+         column-gap: 12px;
+  }
+  .alaq-product-specification-main-wrapper .product-sidebar-wrapper .accordion .accordion-item .accordion-body {
+    padding: 0px 20px 30px 20px;
+  }
+  .alaq-my-profile-page-main-wrapper .my-profile-page-inner-wrapper .profile-side-panel-wrapper .nav-pills .nav-item .nav-link {
+    font-size: 17px;
+    padding: 15px 15px;
+  }
+}
+@media (max-width: 425px) {
+  .alaq-faq-inner-main-wrapper .alaq-faq-inner-wrapper .faq-text h2 {
+    font-size: 22px;
+    line-height: 28px;
+  }
+  .alaq-faq-inner-main-wrapper .alaq-faq-inner-wrapper {
+    padding: 30px 20px;
+  }
+  .alaq-login-main-wrapper .login-inner-block-wrapper .login-content form .multi-btn {
+    margin-top: 10px;
+  }
+  .alaq-login-main-wrapper .login-inner-block-wrapper .login-content .sec-title h2 {
+    font-size: 26px;
+    line-height: 32px;
+  }
+  .alaq-product-category-main-wrapper .product-category-single-wrapper .side-panel-box-wrapper .post-img img {
+    width: 100%;
+  }
+  .alaq-product-single-main-wrapper .product-tab-main-wrapper .tab-content .tab-pane .review_wrapper .review_box2 ul li .comment_box .comment_rating_box {
+    width: 100%;
+    flex-wrap: wrap;
+    display: flex;
+    align-items: start;
+    justify-content: space-between;
+    flex-direction: column;
+    row-gap: 10px;
+  }
+  .alaq-product-single-main-wrapper .product-tab-main-wrapper .nav-pills .nav-item .nav-link {
+    padding: 12px 20px;
+    font-size: 18px;
+  }
+  .alaq-product-single-main-wrapper .product-tab-main-wrapper {
+    padding: 30px 20px;
+  }
+  .alaq-product-single-main-wrapper .product-tab-main-wrapper .tab-content .tab-pane .description_box .descri_txt_box h6 {
+    font-size: 18px;
+  }
+  .alaq-product-single-main-wrapper .product-single-inner-wrapper .product-slider-content-wrapper h2 a {
+    font-size: 22px;
+  }
+  .alaq-product-single-main-wrapper .alaq-product-related-main-wrapper h3 {
+    font-size: 28px;
+  }
+  .alaq-product-single-main-wrapper .product-tab-main-wrapper .tab-content .tab-pane .information_wrapper table tr td {
+    padding: 15px 15px;
+  }
+  .alaq-product-single-main-wrapper .product-tab-main-wrapper .tab-content .tab-pane .description_box .description_img_box {
+    flex-wrap: wrap;
+    row-gap: 10px;
+  }
+  .alaq-product-specification-main-wrapper .product-sidebar-wrapper .accordion .accordion-item .accordion-header .accordion-button {
+    font-size: 20px;
+    padding: 15px 15px;
+  }
+  .alaq-product-specification-main-wrapper .product-sidebar-wrapper .accordion .accordion-item .accordion-body .review_wrapper .review_box1 .review_tab_box .review_rating_text .rating1 h3 {
+    font-size: 60px;
+  }
+  .alaq-product-specification-main-wrapper .product-sidebar-wrapper .accordion .accordion-item .accordion-body .review_wrapper .review_box1 .review_tab_box {
+    padding: 30px 20px;
+  }
+  .alaq-product-specification-main-wrapper .product-sidebar-wrapper .accordion .accordion-item .accordion-body .review_wrapper .review_box2 ul li .comment_box .comment_rating_box {
+    align-items: start;
+    justify-content: start;
+    flex-direction: column;
+    row-gap: 15px;
+  }
+  .alaq-product-specification-main-wrapper .product-sidebar-wrapper .accordion .accordion-item .accordion-body .description_box {
+    row-gap: 10px;
+  }
+  .alaq-product-specification-main-wrapper .product-sidebar-wrapper .accordion .accordion-item .accordion-body .description_box .description_img_box {
+    flex-direction: column;
+    row-gap: 15px;
+  }
+  .alaq-product-specification-main-wrapper .product-sidebar-wrapper .accordion .accordion-item .accordion-body .information_wrapper table tr td {
+    padding: 15px 25px;
+  }
+  .alaq-product-specification-main-wrapper .product-sidebar-wrapper .accordion .accordion-item .accordion-body .review_wrapper .review_box1 .review_tab_box .rating_opition_box h4 {
+    font-size: 20px;
+  }
+  .alaq-blog-sidebar-inner-main-wrapper .alaq-blog-sidebar-inner-wrapper .alaq-blog-sidebar-wrapper .blog-main-wrapper .blog-content {
+    padding: 24px 20px;
+  }
+  .alaq-page-column-main-wrapper .top-filter-wrapper {
+    flex-direction: column;
+    row-gap: 20px;
+  }
+  .alaq-product-category-main-wrapper .product-category-single-wrapper .side-panel-box-wrapper {
+    padding: 20px 15px;
+  }
+  .alaq-my-profile-page-main-wrapper .my-profile-page-inner-wrapper .profile-side-panel-wrapper .nav-pills .nav-item .nav-link {
+    width: 140px;
+    text-align: center;
+  }
+  .alaq-faq-inner-main-wrapper .alaq-faq-inner-side-panel-wrapper .alaq-left-sidebar .alaq-accordion .accordion .accordion-item .accordion-header .accordion-button .h4 {
+    font-size: 17px;
+  }
+}
+@media (max-width: 360px) {
+  .alaq-product-category-main-wrapper .category-inner-wrapper .category-box {
+    width: 100%;
+  }
+  .alaq-product-category-main-wrapper .product-category-single-wrapper .product-sidebar-wrapper .top-filter-wrapper .side-tabs {
+    flex-direction: column-reverse;
+  }
+  .alaq-page-breadcrumb-wrapper .page-breadcrumb ul li {
+    font-size: 14px;
+  }
+  .alaq-page-breadcrumb-wrapper .page-breadcrumb ul li a {
+    font-size: 14px;
+  }
+  .alaq-my-profile-page-main-wrapper .my-profile-page-inner-wrapper .profile-information-wrapper .tab-content .tab-pane .profile-editing-main-wrapper {
+    flex-direction: column;
+  }
+  .alaq-my-profile-page-main-wrapper .my-profile-page-inner-wrapper .profile-information-wrapper .tab-content .tab-pane .profile-editing-main-wrapper .edit-profile-picture .small-12 .p-image {
+    right: 15%;
+  }
+  .alaq-my-profile-page-main-wrapper .my-profile-page-inner-wrapper .profile-information-wrapper .tab-content .tab-pane .product-myorder-main-wrapper .product-myorder-block .product-order-name .product-img-wrapper .product-text .multi-btn {
+    flex-wrap: wrap;
+  }
+  .alaq-blog-sidebar-inner-main-wrapper .alaq-blog-sidebar-inner-wrapper .alaq-blog-single-sidebar-wrapper .comment-box-blog-wrapper .sec-title h2 {
+    font-size: 24px;
+  }
+  .alaq-blog-sidebar-inner-main-wrapper .alaq-blog-sidebar-inner-wrapper .alaq-blog-single-sidebar-wrapper .comment-box-blog-wrapper .sec-title h2:after {
+    top: 18px;
+    right: -75px;
+    width: 60px;
+  }
+  .alaq-contact-inner-main-wrapper .alaq-contact-form-wrapper .contact-form .sec-title h2:after {
+    display: none;
+  }
+  .alaq-my-profile-page-main-wrapper .my-profile-page-inner-wrapper .profile-information-wrapper .tab-content .tab-pane .personal-info-main-wrapper .shipping-address-block-wrapper .address-block-wrapper .location-title {
+    margin-bottom: 15px;
+    flex-wrap: wrap;
+    row-gap: 15px;
+    flex-direction: column;
+  }
+  .alaq-my-profile-page-main-wrapper .my-profile-page-inner-wrapper .profile-information-wrapper .tab-content .tab-pane .personal-info-main-wrapper .shipping-address-block-wrapper .address-block-wrapper .location-title h5 {
+    font-size: 18px;
+  }
+  .alaq-blog-sidebar-inner-main-wrapper .alaq-blog-sidebar-inner-wrapper .alaq-blog-side-penal-wrapper .offer-banner-wrapper img {
+    width: 100%;
+  }
+  .alaq-blog-sidebar-inner-main-wrapper .alaq-blog-sidebar-inner-wrapper .alaq-blog-single-sidebar-wrapper .comment-box-blog-wrapper .comment-box-wrapper .com-text h4 span {
+    padding-left: 10px;
+  }
+  .alaq-blog-sidebar-inner-main-wrapper .alaq-blog-sidebar-inner-wrapper .alaq-blog-side-penal-wrapper .side-panel-inner .cat label span {
+    font-size: 13px;
+    padding: 8px 8px;
+  }
+  .alaq-blog-sidebar-inner-main-wrapper .alaq-blog-sidebar-inner-wrapper .alaq-blog-single-sidebar-wrapper h2 a {
+    font-size: 23px;
+  }
+  .alaq-blog-sidebar-inner-main-wrapper .alaq-blog-sidebar-inner-wrapper .alaq-blog-side-penal-wrapper .side-panel-inner ul li {
+    padding: 15px 10px;
+  }
+  .alaq-blog-sidebar-inner-main-wrapper .alaq-blog-sidebar-inner-wrapper .alaq-blog-single-sidebar-wrapper .comment-box-blog-wrapper {
+    padding: 30px 15px;
+  }
+  .alaq-blog-sidebar-inner-main-wrapper .alaq-blog-sidebar-inner-wrapper .alaq-blog-single-sidebar-wrapper .comment-box-blog-wrapper .comment-box-wrapper {
+    padding: 20px 12px;
+  }
+  .alaq-login-main-wrapper .login-inner-block-wrapper .login-content .sec-title h2 {
+    font-size: 24px;
+  }
+  .alaq-login-main-wrapper .login-inner-block-wrapper .login-content form .remember-wrapper {
+    align-items: start;
+    justify-content: space-between;
+    flex-direction: column;
+    row-gap: 10px;
+  }
+  .alaq-home-slider-wrapper .home-slider-wrapper {
+    padding: 30px 22px;
+  }
+  .alaq-product-single-main-wrapper .product-single-inner-wrapper .product-slider-content-wrapper h4 {
+    font-size: 24px;
+  }
+  .alaq-product-single-main-wrapper .product-tab-main-wrapper .tab-content .tab-pane .review_wrapper .review_box1 .review_tab_box .review_rating_text {
+    flex-wrap: wrap;
+    row-gap: 10px;
+  }
+  .alaq-product-specification-main-wrapper .product-sidebar-wrapper .accordion .accordion-item .accordion-body .description_box h3 {
+    font-size: 30px;
+  }
+  .alaq-product-specification-main-wrapper .product-sidebar-wrapper .accordion .accordion-item .accordion-body .review_wrapper .review_box1 .review_tab_box .review_rating_text {
+    align-items: start;
+    justify-content: start;
+    flex-direction: column;
+    row-gap: 10px;
+  }
+  .alaq-product-specification-main-wrapper .product-sidebar-wrapper .accordion .accordion-item .accordion-header .accordion-button:after {
+    width: 40px;
+    height: 40px;
+  }
+  .alaq-product-specification-main-wrapper .product-sidebar-wrapper .accordion .accordion-item .accordion-header .accordion-button {
+    font-size: 18px;
+    padding: 15px 12px;
+  }
+  .alaq-btn {
+    font-size: 16px;
+  }
+  .alaq-product-specification-main-wrapper .product-sidebar-wrapper .accordion .accordion-item .accordion-body .description_box .descri_txt_box h6 {
+    font-size: 19px;
+  }
+  .alaq-blog-sidebar-inner-main-wrapper .alaq-blog-sidebar-inner-wrapper .alaq-blog-single-sidebar-wrapper .blog_video_wrapper {
+    height: 380px;
+  }
+  .alaq-my-profile-page-main-wrapper .my-profile-page-inner-wrapper .profile-side-panel-wrapper .nav-pills .nav-item .nav-link {
+    width: 115px;
+    text-align: center;
+  }
+}
